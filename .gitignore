@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+env/
+.vscode/
+.idea/
+.env
+.env.local
+build/
+dist/
+*.egg-info/
+.ipynb_checkpoints/
+nltk_data/
